@@ -1,0 +1,7 @@
+{
+  "name": "Zyra AI Assistant",
+  "description": "A sophisticated AI assistant with chat, image generation, and search capabilities, built with React and Google Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
